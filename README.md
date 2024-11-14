@@ -8,11 +8,11 @@ ALIS_analysis.ipynb is a Jupyter notebook file and contains some useful Python c
 
 ### Software 
 
-CyberChef - https://gchq.github.io/CyberChef/
-Binwalk -  https://github.com/ReFirmLabs/binwalk
-Strings (for Windows) - https://learn.microsoft.com/en-us/sysinternals/downloads/strings
-dnSpy - https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8
-Wireshark - https://www.wireshark.org/ 
-ImHex - https://github.com/WerWolv/ImHex
-ImHex (wasm, in browser version) - https://web.imhex.werwolv.net/
-VSCodium (can be used with Jupyter notebooks) - https://vscodium.com/
+CyberChef - https://gchq.github.io/CyberChef/ \
+Binwalk -  https://github.com/ReFirmLabs/binwalk \
+Strings (for Windows) - https://learn.microsoft.com/en-us/sysinternals/downloads/strings \
+dnSpy - https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8 \
+Wireshark - https://www.wireshark.org/ \
+ImHex - https://github.com/WerWolv/ImHex \
+ImHex (wasm, in browser version) - https://web.imhex.werwolv.net/ \
+VSCodium (can be used with Jupyter notebooks) - https://vscodium.com/ \
